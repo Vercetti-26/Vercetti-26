@@ -1,118 +1,63 @@
-# 👋 Hi there! I'm Vercetti
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://dynamic-badges.maxalpha.repl.co/animated-svg?text=VERCETTI&duration=3&color=%23ff0055" alt="Vercetti Animated Title" />
+</p>
 
-```
-███████████████████████████████████████████████████
-█                                                 █
-█   🚀 Full-Stack Developer & Animation Enthusiast  █
-█   📚 B.Tech CSE Student    █
-█   💻 Based in Bengaluru, India                   █
-█                                                 █
-███████████████████████████████████████████████████
-```
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF0055&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Vercetti+👋;Full-stack+Developer+in+the+making;Open-source+%26+Hackathon+Enthusiast;Always+learning+something+cool+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-## ✨ About Me
+## ⚡ About Vercetti
 
-```diff
-+ Passionate about building interactive web experiences
-+ Exploring the intersection of code and creativity
-+ Contributing to open-source projects
-+ Crafting smooth CSS animations and web interactions
-- Bugs are just features waiting to be discovered! 🐛
-```
+- 🔥 Passionate about **full‑stack** development and modern web tech  
+- 🧠 Loves solving **DSA** problems and exploring system design  
+- 🌌 Building side projects, experimenting with new stacks, and breaking things to learn  
+- 🤝 Open to collaboration on cool, impactful ideas  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Arsenal
 
-### Languages
-```javascript
-const skills = {
-  languages: ['JavaScript', 'Java', 'C', 'C++'],
-  frontend: ['HTML5', 'CSS3', 'React', 'Bootstrap', 'Tailwind'],
-  backend: ['Node.js'],
-  tools: ['Git', 'GitHub', 'VS Code', 'Figma']
-};
-```
-
-### Featured Technologies
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,tailwind,git,github,mongodb,postgres,mysql,redis,linux,vscode&perline=9" />
+</p>
 
 ---
 
-## 🎯 What I'm Currently Doing
+## 📊 GitHub Vibes
 
-- 🔨 Building interactive web applications
-- 📚 Learning advanced JavaScript patterns and frameworks
-- 🎨 Experimenting with CSS animations and design systems
-- 🤝 Contributing to open-source projects on GitHub
-- 💡 Working on personal projects and portfolio enhancements
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vercetti&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Vercetti&theme=radical&hide_border=true" />
+</p>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vercetti-26&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vercetti-26&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vercetti&theme=redical&hide_border=true" />
+</p>
 
 ---
 
-## 🎨 Featured Projects
+## 🎮 Current Quests
 
-### 🎮 Quiz Repository
-- Interactive quiz application with animations
-- Built with HTML5, CSS3, and JavaScript
-- Features smooth transitions and responsive design
-- [View Repository](https://github.com/Vercetti-26/quiz-repo)
+- 🚧 Crafting sleek, performant web apps  
+- 🧩 Grinding data structures & algorithms  
+- 🧪 Playing with APIs, automation, and cloud deployments  
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Connect with Vercetti
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vercetti-26)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
-
----
-
-## 💬 Fun Facts
-
-> ✅ I believe clean code is happy code
-> 
-> 🎬 I love exploring video editing and DaVinci Resolve
-> 
-> ⚽ Sports enthusiast - Follow Premier League & F1 Racing
-> 
-> 🎯 Always learning, always growing
-
----
-
-<div align="center">
-
-**Made with ❤️ by Vercetti**
-
-![Visitors](https://komarev.com/ghpvc/?username=Vercetti-26&color=blue&style=flat)
-
-</div>
-
----
-
-### 🚀 "Code is poetry, but debugging is the plot twist!"
+<p align="center">
+  <a href="https://linkedin.com/in/vercetti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vercetti.dev@pm.me" target="_blank">
+    <img src="https://img.shields.io/badge/Email-ff0055?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://vercetti.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
